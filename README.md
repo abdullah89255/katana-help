@@ -7,10 +7,8 @@ To get a general overview of Katana's usage, you can run:
 katana -h
 ```
 
-### Detailed Help Command
-For more detailed information, you can use:
 ```sh
-katana -hh
+go install github.com/projectdiscovery/katana/cmd/katana@latest
 ```
 
 ### Common Options
